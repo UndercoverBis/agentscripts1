@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Author:  afhndsfjhdsgvjb@gmail.com
+#Author:  TEVIN BIS
 #Date: feb 2023
 #Description: Installation of jenkins on ubuntu
 
@@ -16,4 +16,3 @@ sudo apt install git -y
 sudo systemctl start jenkins
 sudo systemctl enable jenkins
   
-*** Docker-install.sh
